@@ -1,0 +1,8 @@
+{
+    "project": {
+        "name": "to wave",
+        "version": 1.0,
+        "dependances": ["ffmpeg"]
+    },
+    "author": "malcovys"
+}
